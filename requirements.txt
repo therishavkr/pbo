@@ -1,0 +1,9 @@
+numpy
+pandas
+yfinance
+fastapi
+uvicorn
+pydantic
+pytest
+matplotlib
+streamlit
